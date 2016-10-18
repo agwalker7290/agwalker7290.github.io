@@ -83,7 +83,6 @@ Fred, Bob and Jim. I paid them as follows: </td>
     <td>£499.00</td>
     <td>£9.99</td>
     <td>£500.00</td>
-    <td></td>
   </tr>
   <tr>
     <td>Shirts</td>
@@ -100,8 +99,6 @@ Fred, Bob and Jim. I paid them as follows: </td>
     <td>£699.00</td>
     <td>£29.99</td>
     <td>£2,300.00</td>
-    <td></td>
-  
   </tr>
   <tr>
     <td>Ties</td>
