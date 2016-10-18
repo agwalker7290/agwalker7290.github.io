@@ -145,6 +145,7 @@ Fred, Bob and Jim. I paid them as follows: </td>
     <td colspan="6">£34,601.00</td>
   </tr>
 </table>
+<p>
 <table>
 <tr>
 <td colspan="4"><center>JANUARY</center></td>
@@ -212,4 +213,4 @@ Fred, Bob and Jim. I paid them as follows: </td>
     <td>£29,000.33</td>
   </tr>
 </table>
-
+</p>
