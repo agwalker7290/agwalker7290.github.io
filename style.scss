@@ -12,15 +12,46 @@
 /**************/
 /* BASE RULES */
 /**************/
+table {
+    width: 100%;
+    margin-bottom: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.3);
+}
 
+iframe {
+	width: 75%;	
+}
 html {
   font-size: 100%;
 }
 
+table, th, td {
+   border: 1px solid white;
+}
+table {
+    width: 100%;
+}
+
+th {
+    height: 50px;
+}
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid white;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
 body {
-	background: $white;
+	background: url( http://dominiondance.com/wp-content/uploads/2016/01/Blue_Dots_1920x1200_cool_twitter_backgrounds.jpg );
   font: 18px/1.4 $helvetica;
-  color: $darkGray;
+  color: #ffffff;
 }
 
 .container {
@@ -28,11 +59,12 @@ body {
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
+  background:rgba(179, 179, 179, 0.4);
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $darkerGray;
+  color: #FF0000;
   font-weight: bold;
 
   line-height: 1.7;
@@ -47,7 +79,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 30px;
   a {
-    color: inherit;
+    color: #FF0000;
   }
 }
 
@@ -61,7 +93,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $gray;
+  color: #ff3300;
 }
 
 p {
@@ -117,7 +149,7 @@ img {
 
 .date {
   font-style: italic;
-  color: $gray;
+  color: #ff0000;
 }
 
 // Specify the color of the selection
