@@ -191,31 +191,21 @@ Fred, Bob and Jim. I paid them as follows: </td>
     <td>£1,394.07</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>£34,601.00</td>
-    <td></td>
-    <td>Gloves</td>
+    <td rowspan="5">£34,601.00</td>
+  </tr>
+</table>
+<table>
+<tr>
+ <td>Gloves</td>
     <td>£19.99</td>
     <td>86</td>
     <td>£1,719.14</td>
-  </tr>
+    </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
     <td>Tops</td>
     <td>£29.99</td>
     <td>967</td>
     <td>£29,000.33</td>
   </tr>
 </table>
-
 
