@@ -67,11 +67,6 @@ Fred, Bob and Jim. I paid them as follows: </td>
     <td>Expenditure</td>
     <td>Rec. Retail Price</td>
     <td>Projected Profit</td>
-    <td></td>
-    <td>JANUARY</td>
-    <td></td>
-    <td></td>
-    <td></td>
   </tr>
   <tr>
     <td>Shoes</td>
@@ -80,11 +75,6 @@ Fred, Bob and Jim. I paid them as follows: </td>
     <td>£2,999.00</td>
     <td>£49.99</td>
     <td>£2,000.00</td>
-    <td></td>
-    <td>£7,363.30</td>
-    <td></td>
-    <td></td>
-    <td></td>
   </tr>
   <tr>
     <td>Socks</td>
@@ -94,10 +84,6 @@ Fred, Bob and Jim. I paid them as follows: </td>
     <td>£9.99</td>
     <td>£500.00</td>
     <td></td>
-    <td>Items Purchased</td>
-    <td>Unit Sale Price</td>
-    <td>Amount</td>
-    <td>Price</td>
   </tr>
   <tr>
     <td>Shirts</td>
@@ -106,11 +92,6 @@ Fred, Bob and Jim. I paid them as follows: </td>
     <td>£1,499.00</td>
     <td>£24.99</td>
     <td>£1,000.00</td>
-    <td></td>
-    <td>Shoes</td>
-    <td>£49.99</td>
-    <td>98</td>
-    <td>£4,899.02</td>
   </tr>
   <tr>
     <td>Jeans</td>
@@ -120,10 +101,7 @@ Fred, Bob and Jim. I paid them as follows: </td>
     <td>£29.99</td>
     <td>£2,300.00</td>
     <td></td>
-    <td>Socks</td>
-    <td>£9.99</td>
-    <td>91</td>
-    <td>£909.09</td>
+  
   </tr>
   <tr>
     <td>Ties</td>
@@ -132,11 +110,6 @@ Fred, Bob and Jim. I paid them as follows: </td>
     <td>£899.00</td>
     <td>£14.99</td>
     <td>£600.00</td>
-    <td></td>
-    <td>Shirts</td>
-    <td>£24.99</td>
-    <td>73</td>
-    <td>£1,824.27</td>
   </tr>
   <tr>
     <td>Hats</td>
@@ -145,11 +118,6 @@ Fred, Bob and Jim. I paid them as follows: </td>
     <td>£999.00</td>
     <td>£20.00</td>
     <td>£1,001.00</td>
-    <td></td>
-    <td>Jeans</td>
-    <td>£29.99</td>
-    <td>86</td>
-    <td>£2,579.14</td>
   </tr>
   <tr>
     <td>Scarfs</td>
@@ -158,11 +126,7 @@ Fred, Bob and Jim. I paid them as follows: </td>
     <td>£999.00</td>
     <td>£14.99</td>
     <td>£500.00</td>
-    <td></td>
-    <td>Ties</td>
-    <td>£14.99</td>
-    <td>76</td>
-    <td>£1,139.24</td>
+
   </tr>
   <tr>
     <td>Gloves</td>
@@ -171,11 +135,6 @@ Fred, Bob and Jim. I paid them as follows: </td>
     <td>£299.00</td>
     <td>£19.99</td>
     <td>£1,700.00</td>
-    <td></td>
-    <td>Hats</td>
-    <td>£20.00</td>
-    <td>99</td>
-    <td>£1,980.00</td>
   </tr>
   <tr>
     <td>Tops</td>
@@ -184,17 +143,65 @@ Fred, Bob and Jim. I paid them as follows: </td>
     <td>£4,990.00</td>
     <td>£29.99</td>
     <td>£25,000.00</td>
-    <td></td>
-    <td>Scarfs</td>
-    <td>£14.99</td>
-    <td>93</td>
-    <td>£1,394.07</td>
   </tr>
   <tr>
-    <td colspan="5">£34,601.00</td>
+    <td colspan="6">£34,601.00</td>
   </tr>
 </table>
 <table>
+<tr>
+<td colspan="4"><center>JANUARY</center></td>
+<tr>
+<td colspan="4"><center>£7,363.30</center></td>
+    </tr>
+<tr>
+    <td>Items Purchased</td>
+    <td>Unit Sale Price</td>
+    <td>Amount</td>
+    <td>Price</td>
+    </tr>
+<tr>
+  <td>Socks</td>
+    <td>£9.99</td>
+    <td>91</td>
+    <td>£909.09</td>
+    </tr>
+<tr>
+    <td>Shoes</td>
+    <td>£49.99</td>
+    <td>98</td>
+    <td>£4,899.02</td>
+    </tr>
+<tr>
+    <td>Shirts</td>
+    <td>£24.99</td>
+    <td>73</td>
+    <td>£1,824.27</td>
+    </tr>
+<tr>
+    <td>Jeans</td>
+    <td>£29.99</td>
+    <td>86</td>
+    <td>£2,579.14</td>
+    </tr>
+<tr>
+    <td>Ties</td>
+    <td>£14.99</td>
+    <td>76</td>
+    <td>£1,139.24</td>
+    </tr>
+<tr>
+ <td>Hats</td>
+    <td>£20.00</td>
+    <td>99</td>
+    <td>£1,980.00</td>
+    </tr>
+<tr>
+<td>Scarfs</td>
+    <td>£14.99</td>
+    <td>93</td>
+    <td>£1,394.07</td>
+    </tr>
 <tr>
  <td>Gloves</td>
     <td>£19.99</td>
