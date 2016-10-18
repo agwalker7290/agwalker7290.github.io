@@ -191,7 +191,7 @@ Fred, Bob and Jim. I paid them as follows: </td>
     <td>£1,394.07</td>
   </tr>
   <tr>
-    <td rowspan="5">£34,601.00</td>
+    <td colspan="5">£34,601.00</td>
   </tr>
 </table>
 <table>
