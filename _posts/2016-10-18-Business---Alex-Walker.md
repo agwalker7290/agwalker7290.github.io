@@ -36,7 +36,7 @@ Fred, Bob and Jim. I paid them as follows: </td>
   <tr>
     <td>Name</td>
     <td>Amount Paid (Month)</td>
-  </tr>
+    </tr>
   <tr>
     <td>Fred</td>
     <td>£1,200.00</td>
