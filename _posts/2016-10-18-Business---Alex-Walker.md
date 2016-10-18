@@ -211,5 +211,5 @@ Fred, Bob and Jim. I paid them as follows: </td>
     <td>967</td>
     <td>£29,000.33</td>
   </tr>
-</table>
+
 
